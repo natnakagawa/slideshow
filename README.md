@@ -1,2 +1,2 @@
 # slideshow
-# slideshow
+# A very simple slideshow
